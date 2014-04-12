@@ -213,7 +213,9 @@ call s:Highlight('MoreMsg',         s:lime, '', '', '')
   
 call s:Highlight('WildMenu',        s:black, s:lilac, 'bold', '')
 
-call s:Highlight('Title',           '', '', 'underline', '')
+" vim-javascript-syntax declares function exp names as Title; actually
+" underlining them, however, spoils _privateFn naming convention
+"call s:Highlight('Title',           '', '', 'underline', '')
 
 call s:HighlightX('Tag',            '', '', 'bold', '')
 
