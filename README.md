@@ -1,8 +1,6 @@
 ## harlequin ##
 
-Dark, high contrast, warm colorscheme for gvim and 256 color terminal inspired by [molokai](https://github.com/tomasr/molokai) and [badwolf](https://github.com/sjl/badwolf).
-
-You can also get it from vim.org [here](http://www.vim.org/scripts/script.php?script_id=4195).
+Dark, high contrast, warm colorscheme for gvim and 256 color terminal, forked from [harlequin](https://github.com/nielsmadan/harlequin), which was originally inspired by [molokai](https://github.com/tomasr/molokai) and [badwolf](https://github.com/sjl/badwolf).
 
 ### properties ###
 
@@ -13,37 +11,3 @@ You can also get it from vim.org [here](http://www.vim.org/scripts/script.php?sc
 ### contribute ###
 
 Pull requests welcome. Please open issues if you find something that looks wonky.
-
-### languages/plugins ###
-
-Currently hand-optimized for the following languages:
-
-```
-C, C++, python, ruby, javascript, clojure, scala, vimscript, xml, html, and css
-```
-
-And the following plugins:
-
-```
-minibufexplorer, vim-easymotion, vimdiff, CtrlP, taglist.vim
-```
-
-### screenshots ###
-
-Python
-
-![python](http://i.imgur.com/IX2F1.png)
-
-C
-
-![c](http://i.imgur.com/ODbCD.png)
-
-Clojure
-
-![clojure](http://i.imgur.com/LoUNY.png)
-
-diffmode
-
-![diffmode](http://i.imgur.com/7GlFM.png)
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/bedf45835c6498be0baae617161f6477 "githalytics.com")](http://githalytics.com/nielsmadan/harlequin)
